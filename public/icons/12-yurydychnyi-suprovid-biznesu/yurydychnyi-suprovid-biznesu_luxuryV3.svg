@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Юридичний супровід бізнесу">
+<title>Юридичний супровід бізнесу</title>
+<defs><linearGradient id="gold" gradientUnits="userSpaceOnUse" x1="6" y1="4" x2="42" y2="44"><stop offset="0.0" stop-color="#F6E2AC"/><stop offset="0.28" stop-color="#E0BE84"/><stop offset="0.55" stop-color="#BF9253"/><stop offset="0.8" stop-color="#97682F"/><stop offset="1.0" stop-color="#6F4A1C"/></linearGradient><linearGradient id="tile" x1="0.05" y1="0" x2="0.75" y2="1"><stop offset="0.0" stop-color="#1B3059"/><stop offset="0.4" stop-color="#101F44"/><stop offset="0.75" stop-color="#091430"/><stop offset="1.0" stop-color="#040C1F"/></linearGradient><radialGradient id="glow" cx="0.28" cy="0.16" r="0.75"><stop offset="0" stop-color="#5B7FB8" stop-opacity="0.26"/><stop offset="1" stop-color="#5B7FB8" stop-opacity="0"/></radialGradient><linearGradient id="rim" gradientUnits="userSpaceOnUse" x1="8" y1="6" x2="64" y2="64"><stop offset="0.0" stop-color="#FFF2D6"/><stop offset="0.28" stop-color="#E4C186"/><stop offset="0.55" stop-color="#BE8F4F"/><stop offset="0.8" stop-color="#DDB878"/><stop offset="1.0" stop-color="#8A6733"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.10"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="tc"><rect x="6" y="5" width="60" height="60" rx="15"/></clipPath><filter id="soft" x="-20%" y="-20%" width="140%" height="150%"><feGaussianBlur stdDeviation="2.6"/></filter><filter id="soft2" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1.1"/></filter><filter id="thin" filterUnits="userSpaceOnUse" x="-10" y="-10" width="68" height="68" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceAlpha" stdDeviation="0.55" result="h"/>
+<feDiffuseLighting in="h" surfaceScale="2.4" diffuseConstant="1.3" lighting-color="#ffffff" result="d"><feDistantLight azimuth="225" elevation="55"/></feDiffuseLighting>
+<feComposite in="SourceGraphic" in2="d" operator="arithmetic" k1="1" k2="0" k3="0" k4="0" result="sh"/>
+<feSpecularLighting in="h" surfaceScale="2.4" specularConstant="1.05" specularExponent="22" lighting-color="#FFF2C8" result="sp"><feDistantLight azimuth="225" elevation="46"/></feSpecularLighting>
+<feComposite in="sp" in2="SourceAlpha" operator="in" result="spi"/>
+<feComposite in="sh" in2="spi" operator="arithmetic" k1="0" k2="1" k3="0.9" k4="0" result="lit"/>
+<feGaussianBlur in="SourceAlpha" stdDeviation="0.9" result="sb"/>
+<feOffset in="sb" dx="0.7" dy="1.5" result="so"/>
+<feFlood flood-color="#02060F" flood-opacity="0.55"/>
+<feComposite in2="so" operator="in" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="lit"/></feMerge>
+</filter><filter id="thick" filterUnits="userSpaceOnUse" x="-10" y="-10" width="68" height="68" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceAlpha" stdDeviation="1.35" result="h"/>
+<feDiffuseLighting in="h" surfaceScale="3.6" diffuseConstant="1.18" lighting-color="#ffffff" result="d"><feDistantLight azimuth="225" elevation="55"/></feDiffuseLighting>
+<feComposite in="SourceGraphic" in2="d" operator="arithmetic" k1="1" k2="0" k3="0" k4="0" result="sh"/>
+<feSpecularLighting in="h" surfaceScale="3.6" specularConstant="0.62" specularExponent="22" lighting-color="#FFF2C8" result="sp"><feDistantLight azimuth="225" elevation="46"/></feSpecularLighting>
+<feComposite in="sp" in2="SourceAlpha" operator="in" result="spi"/>
+<feComposite in="sh" in2="spi" operator="arithmetic" k1="0" k2="1" k3="0.9" k4="0" result="lit"/>
+<feGaussianBlur in="SourceAlpha" stdDeviation="1.1" result="sb"/>
+<feOffset in="sb" dx="0.8" dy="1.7" result="so"/>
+<feFlood flood-color="#02060F" flood-opacity="0.6"/>
+<feComposite in2="so" operator="in" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="lit"/></feMerge>
+</filter><filter id="rimf" filterUnits="userSpaceOnUse" x="0" y="0" width="72" height="72" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceAlpha" stdDeviation="0.5" result="h"/>
+<feDiffuseLighting in="h" surfaceScale="1.6" diffuseConstant="1.3" lighting-color="#ffffff" result="d"><feDistantLight azimuth="225" elevation="55"/></feDiffuseLighting>
+<feComposite in="SourceGraphic" in2="d" operator="arithmetic" k1="1" k2="0" k3="0" k4="0" result="sh"/>
+<feSpecularLighting in="h" surfaceScale="1.6" specularConstant="1.05" specularExponent="20" lighting-color="#FFF2C8" result="sp"><feDistantLight azimuth="225" elevation="46"/></feSpecularLighting>
+<feComposite in="sp" in2="SourceAlpha" operator="in" result="spi"/>
+<feComposite in="sh" in2="spi" operator="arithmetic" k1="0" k2="1" k3="0.9" k4="0" result="lit"/>
+<feGaussianBlur in="SourceAlpha" stdDeviation="0.7" result="sb"/>
+<feOffset in="sb" dx="0.0" dy="0.6" result="so"/>
+<feFlood flood-color="#02060F" flood-opacity="0.35"/>
+<feComposite in2="so" operator="in" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="lit"/></feMerge>
+</filter></defs>
+<rect x="8" y="12" width="56" height="56" rx="15" fill="#3A2E1A" opacity="0.30" filter="url(#soft)"/>
+<rect x="6" y="5" width="60" height="60" rx="15" fill="url(#tile)"/>
+<rect x="6" y="5" width="60" height="60" rx="15" fill="url(#glow)"/>
+<g clip-path="url(#tc)"><rect x="7.2" y="6.2" width="57.6" height="57.6" rx="14" fill="none" stroke="#000" stroke-opacity="0.36" stroke-width="2.4" filter="url(#soft2)"/></g>
+<rect x="8.1" y="7.1" width="55.8" height="55.8" rx="13.2" fill="none" stroke="#020812" stroke-opacity="0.6" stroke-width="0.7"/>
+<rect x="9.6" y="6.4" width="52.8" height="24" rx="12.5" fill="url(#gloss)"/>
+<rect x="6" y="5" width="60" height="60" rx="15" fill="none" stroke="url(#rim)" stroke-width="1.5" filter="url(#rimf)"/>
+<rect x="7.4" y="6.4" width="57.2" height="57.2" rx="13.7" fill="none" stroke="#F3D79B" stroke-opacity="0.35" stroke-width="0.5"/>
+<g transform="translate(14.4 13.4) scale(0.9)">
+<g filter="url(#thin)">
+<path d="M17 15 V11.5 A2.5 2.5 0 0 1 19.5 9 H28.5 A2.5 2.5 0 0 1 31 11.5 V15" fill="none" stroke="url(#gold)" stroke-width="2.76"/>
+<rect x="5" y="15" width="38" height="26" rx="4" fill="none" stroke="url(#gold)" stroke-width="2.76"/>
+<path d="M5 26.5 H43" fill="none" stroke="url(#gold)" stroke-width="2.53"/>
+</g>
+<mask id="cut3" maskUnits="userSpaceOnUse" x="-6" y="-6" width="60" height="60"><rect x="-6" y="-6" width="60" height="60" fill="#fff"/></mask>
+<g filter="url(#thick)"><g mask="url(#cut3)">
+<rect x="20" y="23.5" width="8" height="7" rx="1.5" fill="url(#gold)" stroke="url(#gold)" stroke-width="0.6"/>
+</g></g>
+</g>
+</svg>

@@ -6,9 +6,9 @@ import { ICON_STYLES, SERVICES, getService, iconFolder, iconPath, isIconStyle } 
 const publicDir = join(process.cwd(), "public");
 
 describe("catalog", () => {
-  it("містить 16 послуг і 9 стилів", () => {
+  it("містить 16 послуг і 10 стилів", () => {
     expect(SERVICES).toHaveLength(16);
-    expect(ICON_STYLES).toHaveLength(9);
+    expect(ICON_STYLES).toHaveLength(10);
   });
 
   it("slug-и послуг унікальні", () => {
@@ -41,4 +41,14 @@ describe("файли іконок", () => {
     expect(svg).toContain("viewBox=");
     expect(svg).not.toMatch(/<text[\s>]/);
   });
+});
+
+describe("PNG-фолбек luxuryV3", () => {
+  it.each(SERVICES.map((s) => s.slug))(
+    "%s має PNG для програм без підтримки SVG-фільтрів",
+    (slug) => {
+      const png = join(publicDir, iconPath(slug, "luxuryV3").replace(/\.svg$/, ".png"));
+      expect(existsSync(png)).toBe(true);
+    },
+  );
 });
