@@ -1,7 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Військове право">
 <title>Військове право</title>
-<path d="M10.5 24 L9 17 C9 11 15.5 7 24 7 C32.5 7 39 11 39 17 L37.5 24 Z" fill="none" stroke="#14213D" stroke-width="2.5"/>
-<path d="M24.00 11.60 L25.18 14.78 L28.57 14.92 L25.90 17.02 L26.82 20.28 L24.00 18.40 L21.18 20.28 L22.10 17.02 L19.43 14.92 L22.82 14.78 Z" fill="none" stroke="#B98B53" stroke-width="2.5"/>
-<rect x="10" y="24" width="28" height="5.6" rx="1.4" fill="none" stroke="#B98B53" stroke-width="2.5"/>
-<path d="M14 31 H34 C34 35.4 29.5 38 24 38 C18.5 38 14 35.4 14 31 Z" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M4.5 4.5 L12.5 12.5" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<path d="M6.2 12.8 L12.8 6.2" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M36.5 36.5 L43.5 43.5" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<path d="M43.5 4.5 L35.5 12.5" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<path d="M41.8 12.8 L35.2 6.2" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M11.5 36.5 L4.5 43.5" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<path d="M24 10 L35 13.8 V25 C35 32.5 29.5 37 24 40.5 C18.5 37 13 32.5 13 25 V13.8 Z" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<path d="M24 16 V34.5" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M22.3 20 L24 14.8 L25.7 20 Z" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M18.5 19.5 V24 C18.5 28.5 24 28.5 24 32" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M29.5 19.5 V24 C29.5 28.5 24 28.5 24 32" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M17.2 22 L18.5 17.6 L19.8 22 Z" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M28.2 22 L29.5 17.6 L30.8 22 Z" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M21.5 35 H26.5" fill="none" stroke="#B98B53" stroke-width="2.5"/>
 </svg>
