@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Трудові справи">
+<title>Трудові справи</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1F3068"/><stop offset="1" stop-color="#0A1230"/></linearGradient><linearGradient id="gold" gradientUnits="userSpaceOnUse" x1="4" y1="4" x2="44" y2="44"><stop offset="0" stop-color="#F3DCA6"/><stop offset="1" stop-color="#B8893F"/></linearGradient></defs>
+<rect x="1" y="1" width="62" height="62" rx="16" fill="url(#bg)"/>
+<rect x="4" y="4" width="56" height="56" rx="13" fill="none" stroke="#D9B26B" stroke-opacity="0.45" stroke-width="1"/>
+<g transform="translate(14 14) scale(0.75)">
+<circle cx="24" cy="14" r="7" fill="none" stroke="url(#gold)" stroke-width="3"/>
+<path d="M7 43 V38.5 C7 32.5 11.5 27.5 17.5 27.5 H30.5 C36.5 27.5 41 32.5 41 38.5 V43 Z" fill="none" stroke="url(#gold)" stroke-width="3"/>
+<path d="M18 27.5 L24 34 L30 27.5" fill="none" stroke="url(#gold)" stroke-width="3"/>
+<path d="M24 34.5 L21.8 38 L24 43 L26.2 38 Z" fill="none" stroke="#FFF3D6" stroke-width="3"/>
+</g>
+</svg>

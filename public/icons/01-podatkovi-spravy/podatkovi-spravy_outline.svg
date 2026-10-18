@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Податкові справи">
+<title>Податкові справи</title>
+<path d="M11 4.5 H29 L38 13.5 V43.5 H11 Z" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<path d="M29 4.5 V13.5 H38" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<circle cx="22" cy="25.5" r="2.3" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<circle cx="27.5" cy="33.5" r="2.3" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M19.5 36.5 L30 23" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+</svg>

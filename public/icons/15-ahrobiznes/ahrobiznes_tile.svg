@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Агробізнес">
+<title>Агробізнес</title>
+<rect x="2" y="4" width="60" height="60" rx="16" fill="#0B1540" opacity="0.07"/>
+<rect x="2" y="2" width="60" height="58" rx="16" fill="#FFFFFF" stroke="#E3E7F0" stroke-width="1.5"/>
+<g transform="translate(14 12) scale(0.75)">
+<path d="M24 44 V15" fill="none" stroke="#14213D" stroke-width="3"/>
+<path d="M24 4 C20.5 7.5 20.5 11.5 24 15 C27.5 11.5 27.5 7.5 24 4 Z" fill="none" stroke="#B98B53" stroke-width="3"/>
+<path d="M24 24 Q24 16 15.5 16 Q15.5 24 24 24 Z" fill="none" stroke="#B98B53" stroke-width="3"/>
+<path d="M24 24 Q24 16 32.5 16 Q32.5 24 24 24 Z" fill="none" stroke="#B98B53" stroke-width="3"/>
+<path d="M24 32 Q24 24 15.5 24 Q15.5 32 24 32 Z" fill="none" stroke="#B98B53" stroke-width="3"/>
+<path d="M24 32 Q24 24 32.5 24 Q32.5 32 24 32 Z" fill="none" stroke="#B98B53" stroke-width="3"/>
+<path d="M24 40 Q24 32 15.5 32 Q15.5 40 24 40 Z" fill="none" stroke="#B98B53" stroke-width="3"/>
+<path d="M24 40 Q24 32 32.5 32 Q32.5 40 24 40 Z" fill="none" stroke="#B98B53" stroke-width="3"/>
+</g>
+</svg>

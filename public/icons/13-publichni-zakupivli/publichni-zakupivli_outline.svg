@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Публічні закупівлі">
+<title>Публічні закупівлі</title>
+<rect x="9" y="8" width="30" height="36" rx="3.5" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<rect x="17" y="4" width="14" height="7" rx="2.5" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M14.5 21 l2.3 2.3 l4.2 -4.6" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M26 21.5 H33.5" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<path d="M14.5 29 l2.3 2.3 l4.2 -4.6" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M26 29.5 H33.5" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<path d="M14.5 37 l2.3 2.3 l4.2 -4.6" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M26 37.5 H33.5" fill="none" stroke="#14213D" stroke-width="2.5"/>
+</svg>

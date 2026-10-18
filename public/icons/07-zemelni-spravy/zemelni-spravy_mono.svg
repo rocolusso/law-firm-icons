@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Земельні справи">
+<title>Земельні справи</title>
+<path d="M11 36.5 H37 L44 44 H4 Z" fill="none" stroke="currentColor" stroke-width="2.5"/>
+<path d="M18 36.5 L14.8 44 M30 36.5 L33.2 44" fill="none" stroke="currentColor" stroke-width="2.5"/>
+<path d="M24 36.5 C24 36.5 34 28 34 18 A10 10 0 0 0 14 18 C14 28 24 36.5 24 36.5 Z" fill="none" stroke="currentColor" stroke-width="2.5"/>
+<circle cx="24" cy="18" r="3.8" fill="none" stroke="currentColor" stroke-width="2.5"/>
+</svg>

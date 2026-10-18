@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Юридичний супровід бізнесу">
+<title>Юридичний супровід бізнесу</title>
+<circle cx="32" cy="32" r="30" fill="#14213D"/>
+<g transform="translate(14 14) scale(0.75)">
+<path d="M17 15 V11.5 A2.5 2.5 0 0 1 19.5 9 H28.5 A2.5 2.5 0 0 1 31 11.5 V15" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+<rect x="5" y="15" width="38" height="26" rx="4" fill="rgba(255,255,255,0.14)" stroke="#FFFFFF" stroke-width="3"/>
+<path d="M5 26.5 H43" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+<rect x="20" y="23.5" width="8" height="7" rx="1.5" fill="rgba(230,188,124,0.35)" stroke="#E6BC7C" stroke-width="3"/>
+</g>
+</svg>

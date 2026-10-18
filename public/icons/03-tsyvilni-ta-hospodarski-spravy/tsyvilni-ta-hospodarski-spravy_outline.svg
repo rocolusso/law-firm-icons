@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Цивільні та господарські справи">
+<title>Цивільні та господарські справи</title>
+<circle cx="24" cy="8.5" r="2.6" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<path d="M24 11 V42.5" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<path d="M9 13.5 H39" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<path d="M9 13.5 L4.5 28 M9 13.5 L13.5 28" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<path d="M39 13.5 L34.5 28 M39 13.5 L43.5 28" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<path d="M3.5 28 H14.5 A5.5 5.5 0 0 1 3.5 28 Z" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M33.5 28 H44.5 A5.5 5.5 0 0 1 33.5 28 Z" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+<path d="M16.5 42.5 H31.5" fill="none" stroke="#14213D" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,24 @@
+# зависимости и сборка
+node_modules
+.next
+out
+build
+next-env.d.ts
+*.tsbuildinfo
+
+# окружение
+.env*
+!.env.example
+
+# системное
+.DS_Store
+
+# локальные файлы рядом с проектом (исходный архив, скриншоты, референс)
+/legal-icons/
+/legal-icons.zip
+/Screenshot*.png
+/clario icons*.png
+
+# IDE
+.idea
+.vscode

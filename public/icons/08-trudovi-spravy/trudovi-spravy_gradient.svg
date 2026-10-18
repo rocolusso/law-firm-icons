@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Трудові справи">
+<title>Трудові справи</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6F8DFF"/><stop offset="1" stop-color="#2A3DCB"/></linearGradient></defs>
+<rect x="1" y="1" width="62" height="62" rx="18" fill="url(#bg)"/>
+<g transform="translate(14 14) scale(0.75)">
+<circle cx="24" cy="14" r="7" fill="rgba(255,255,255,0.20)" stroke="#FFFFFF" stroke-width="3"/>
+<path d="M7 43 V38.5 C7 32.5 11.5 27.5 17.5 27.5 H30.5 C36.5 27.5 41 32.5 41 38.5 V43 Z" fill="rgba(255,255,255,0.20)" stroke="#FFFFFF" stroke-width="3"/>
+<path d="M18 27.5 L24 34 L30 27.5" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+<path d="M24 34.5 L21.8 38 L24 43 L26.2 38 Z" fill="rgba(255,210,122,0.40)" stroke="#FFD27A" stroke-width="3"/>
+</g>
+</svg>

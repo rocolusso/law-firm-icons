@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Банківські та фінансові справи">
+<title>Банківські та фінансові справи</title>
+<defs><mask id="cut" maskUnits="userSpaceOnUse" x="0" y="0" width="48" height="48"><rect width="48" height="48" fill="#fff"/></mask></defs>
+<g mask="url(#cut)">
+<path d="M24 5 L43 15.5 H5 Z" fill="#14213D" stroke="#14213D" stroke-width="1.2"/>
+<rect x="6" y="35.5" width="36" height="7" rx="2" fill="#14213D" stroke="#14213D" stroke-width="1.2"/>
+</g>
+<circle cx="24" cy="12.4" r="2.3" fill="#B98B53" stroke="#B98B53" stroke-width="1.2"/>
+<path d="M8.5 19.5 H39.5" fill="none" stroke="#14213D" stroke-width="3.2"/>
+<path d="M12 19.5 V35.5 M20 19.5 V35.5 M28 19.5 V35.5 M36 19.5 V35.5" fill="none" stroke="#14213D" stroke-width="3.2"/>
+</svg>

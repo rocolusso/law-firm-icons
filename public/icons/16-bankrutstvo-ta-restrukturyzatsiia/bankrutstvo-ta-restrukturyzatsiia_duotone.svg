@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Банкрутство та фінансова реструктуризація">
+<title>Банкрутство та фінансова реструктуризація</title>
+<rect x="6" y="23" width="8" height="19" rx="1.5" fill="#DCE3F3" stroke="#14213D" stroke-width="2.5"/>
+<rect x="20" y="30" width="8" height="12" rx="1.5" fill="#DCE3F3" stroke="#14213D" stroke-width="2.5"/>
+<rect x="34" y="36" width="8" height="6" rx="1.5" fill="#DCE3F3" stroke="#14213D" stroke-width="2.5"/>
+<path d="M4 42.5 H44" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<path d="M5 8 L41 26.5 M37.7 20.3 L41 26.5 L34.1 27.45" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+</svg>

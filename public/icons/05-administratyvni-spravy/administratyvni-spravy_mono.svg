@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Адміністративні справи">
+<title>Адміністративні справи</title>
+<path d="M19.5 25 L21 13 C21 8.5 22 5.5 24 5.5 C26 5.5 27 8.5 27 13 L28.5 25 Z" fill="none" stroke="currentColor" stroke-width="2.5"/>
+<rect x="7" y="25" width="34" height="8.5" rx="2.5" fill="none" stroke="currentColor" stroke-width="2.5"/>
+<path d="M7 39 H41" fill="none" stroke="currentColor" stroke-width="2.5"/>
+<path d="M13 43.5 H35" fill="none" stroke="currentColor" stroke-width="2.5"/>
+</svg>

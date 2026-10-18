@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Виконавче провадження">
+<title>Виконавче провадження</title>
+<rect x="19" y="10" width="20" height="10" rx="2.5" fill="none" stroke="#14213D" stroke-width="2.5" transform="rotate(45 29 15)"/>
+<path d="M23.5 10 V20" fill="none" stroke="#14213D" stroke-width="2.5" transform="rotate(45 29 15)"/>
+<path d="M34.5 10 V20" fill="none" stroke="#14213D" stroke-width="2.5" transform="rotate(45 29 15)"/>
+<path d="M25.5 18.5 L11 33" fill="none" stroke="#14213D" stroke-width="2.5"/>
+<rect x="6" y="37" width="24" height="5.5" rx="1.5" fill="none" stroke="#B98B53" stroke-width="2.5"/>
+</svg>

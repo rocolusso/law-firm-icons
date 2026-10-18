@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Юридичний супровід бізнесу">
+<title>Юридичний супровід бізнесу</title>
+<defs><mask id="cut" maskUnits="userSpaceOnUse" x="0" y="0" width="48" height="48"><rect width="48" height="48" fill="#fff"/><path d="M5 26.5 H43" fill="none" stroke="#000" stroke-width="2.6"/></mask></defs>
+<g mask="url(#cut)">
+<rect x="5" y="15" width="38" height="26" rx="4" fill="#14213D" stroke="#14213D" stroke-width="1.2"/>
+</g>
+<rect x="20" y="23.5" width="8" height="7" rx="1.5" fill="#B98B53" stroke="#B98B53" stroke-width="1.2"/>
+<path d="M17 15 V11.5 A2.5 2.5 0 0 1 19.5 9 H28.5 A2.5 2.5 0 0 1 31 11.5 V15" fill="none" stroke="#14213D" stroke-width="3.2"/>
+</svg>
