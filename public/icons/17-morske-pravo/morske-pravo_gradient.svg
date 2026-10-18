@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Морське право">
+<title>Морське право</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6F8DFF"/><stop offset="1" stop-color="#2A3DCB"/></linearGradient></defs>
+<rect x="1" y="1" width="62" height="62" rx="18" fill="url(#bg)"/>
+<g transform="translate(14 14) scale(0.75)">
+<circle cx="24" cy="8" r="3.3" fill="rgba(255,255,255,0.20)" stroke="#FFFFFF" stroke-width="3"/>
+<path d="M16.5 14.6 H31.5" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+<path d="M24 11.3 V38.4" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+<path d="M9 27.5 C10 34.5 16 38.6 24 38.6 C32 38.6 38 34.5 39 27.5" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+<path d="M4.2 31.2 L9 24.8 L13.6 30.8 Z" fill="rgba(255,210,122,0.40)" stroke="#FFD27A" stroke-width="3"/>
+<path d="M43.8 31.2 L39 24.8 L34.4 30.8 Z" fill="rgba(255,210,122,0.40)" stroke="#FFD27A" stroke-width="3"/>
+<path d="M5.5 43.6 q3.5 -3 7 0 t7 0 t7 0 t7 0 t7 0" fill="none" stroke="#FFD27A" stroke-width="3"/>
+</g>
+</svg>

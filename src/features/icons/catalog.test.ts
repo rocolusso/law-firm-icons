@@ -6,8 +6,8 @@ import { ICON_STYLES, SERVICES, getService, iconFolder, iconPath, isIconStyle } 
 const publicDir = join(process.cwd(), "public");
 
 describe("catalog", () => {
-  it("містить 16 послуг і 10 стилів", () => {
-    expect(SERVICES).toHaveLength(16);
+  it("містить 18 послуг і 10 стилів", () => {
+    expect(SERVICES).toHaveLength(18);
     expect(ICON_STYLES).toHaveLength(10);
   });
 
@@ -20,6 +20,8 @@ describe("catalog", () => {
     expect(iconFolder("bankrutstvo-ta-restrukturyzatsiia")).toBe(
       "16-bankrutstvo-ta-restrukturyzatsiia",
     );
+    expect(iconFolder("morske-pravo")).toBe("17-morske-pravo");
+    expect(iconFolder("viiskove-pravo")).toBe("18-viiskove-pravo");
   });
 
   it("розпізнає стилі та послуги", () => {

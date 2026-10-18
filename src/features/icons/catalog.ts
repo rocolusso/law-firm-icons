@@ -42,6 +42,8 @@ export const SERVICES: readonly Service[] = [
   { slug: "neruhomist-ta-budivnytstvo", title: "Нерухомість та будівництво" },
   { slug: "ahrobiznes", title: "Агробізнес" },
   { slug: "bankrutstvo-ta-restrukturyzatsiia", title: "Банкрутство та фінансова реструктуризація" },
+  { slug: "morske-pravo", title: "Морське право" },
+  { slug: "viiskove-pravo", title: "Військове право" },
 ];
 
 export function isIconStyle(value: string | undefined): value is IconStyleId {

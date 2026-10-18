@@ -1,6 +1,6 @@
 # law-firm-icons
 
-Каталог SVG-іконок для сайту юридичної компанії в Україні: 16 послуг × 10 стилів = 160 SVG (плюс 16 PNG для luxuryV3), без тексту на іконках.
+Каталог SVG-іконок для сайту юридичної компанії в Україні: 18 послуг × 10 стилів = 180 SVG (плюс 18 PNG для luxuryV3), без тексту на іконках.
 Сайт зроблено на Next.js 16 (App Router), mobile first.
 
 ## Запуск
@@ -15,7 +15,7 @@ npm run build && npm start
 
 ## UI-кіт
 
-`docs/ui-kit-luxury2.png` і `docs/ui-kit-luxuryV3.png`: листи з усіма 16 іконками.
+`docs/ui-kit-luxury2.png` і `docs/ui-kit-luxuryV3.png`: листи з усіма 18 іконками.
 
 luxuryV3 малює об’єм через SVG-освітлення (`feDiffuseLighting`, `feSpecularLighting`). Браузери це підтримують, а Figma та частина редакторів ігнорують фільтри й покажуть пласке золото. Для них поруч лежить `*_luxuryV3.png` (512 px, прозорий фон).
 
