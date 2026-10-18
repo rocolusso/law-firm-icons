@@ -6,9 +6,9 @@ import { ICON_STYLES, SERVICES, getService, iconFolder, iconPath, isIconStyle } 
 const publicDir = join(process.cwd(), "public");
 
 describe("catalog", () => {
-  it("містить 16 послуг і 8 стилів", () => {
+  it("містить 16 послуг і 9 стилів", () => {
     expect(SERVICES).toHaveLength(16);
-    expect(ICON_STYLES).toHaveLength(8);
+    expect(ICON_STYLES).toHaveLength(9);
   });
 
   it("slug-и послуг унікальні", () => {

@@ -5,6 +5,7 @@ export const ICON_STYLES = [
   { id: "badge", label: "Badge", hint: "Світла іконка на темному колі" },
   { id: "tile", label: "Tile", hint: "Біла картка з тінню" },
   { id: "luxury", label: "Luxury", hint: "Золотий градієнт на темно-синьому" },
+  { id: "luxury2", label: "Luxury 2", hint: "Золоте тиснення на темно-синій плитці з рамкою" },
   { id: "gradient", label: "Gradient", hint: "Біла іконка на синьому градієнті" },
   { id: "mono", label: "Mono", hint: "Один колір через currentColor" },
 ] as const;

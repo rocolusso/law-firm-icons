@@ -2,7 +2,10 @@
 <title>Кримінальні справи</title>
 <circle cx="32" cy="32" r="30" fill="#14213D"/>
 <g transform="translate(14 14) scale(0.75)">
-<path d="M24 4 L40 9.5 V23 C40 33.5 33 40.5 24 44.5 C15 40.5 8 33.5 8 23 V9.5 Z" fill="rgba(255,255,255,0.14)" stroke="#FFFFFF" stroke-width="3"/>
-<path d="M24.00 14.50 L26.35 20.76 L33.04 21.06 L27.80 25.24 L29.58 31.69 L24.00 28.00 L18.42 31.69 L20.20 25.24 L14.96 21.06 L21.65 20.76 Z" fill="rgba(230,188,124,0.35)" stroke="#E6BC7C" stroke-width="3"/>
+<circle cx="13" cy="31" r="9" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="35" cy="31" r="9" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+<rect x="10" y="14.5" width="6" height="8.5" rx="1.5" fill="rgba(230,188,124,0.35)" stroke="#E6BC7C" stroke-width="3"/>
+<rect x="32" y="14.5" width="6" height="8.5" rx="1.5" fill="rgba(230,188,124,0.35)" stroke="#E6BC7C" stroke-width="3"/>
+<path d="M13 14.5 V12 C13 5 35 5 35 12 V14.5" fill="none" stroke="#E6BC7C" stroke-width="3"/>
 </g>
 </svg>
